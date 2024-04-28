@@ -21,4 +21,30 @@ SO I CHANGED IT USING TEXT EDITOR, AND I SAVED IT.
 
 PART 1 of the flag, cool 😎
 
-PART 2
+I remember there is a passphrase given ... 🤔
+Must be useful
+
+
+![Screenshot 2024-04-28 211037](https://github.com/Cryogas/GDSC_CTF_APR_2024/assets/136941894/983b0768-0c67-44ab-9371-cf827c345b64)
+
+
+Search for a stega solver online.. decided to use this website : https://futureboy.us/stegano/decinput.html 
+
+Upload the .jpg file and insert the passphrase...
+
+![Screenshot 2024-04-28 211122](https://github.com/Cryogas/GDSC_CTF_APR_2024/assets/136941894/d7a950f2-a314-455d-8afd-cf7de35750da)
+
+
+......
+
+Voila ! 🥳🥳🥳
+
+![Screenshot 2024-04-28 211236](https://github.com/Cryogas/GDSC_CTF_APR_2024/assets/136941894/0ef090cc-8b00-41c2-aec7-b7cbf0a56ccb)
+
+
+FLAG: GDSC{r3sPeCt_y0uR_e1d3Rs}
+
+
+Conclusion: This challenge is difficult as knowledge about file header signatures and solving steganography tools are required for this 
+challenge. 
+
