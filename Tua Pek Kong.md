@@ -14,7 +14,7 @@ Hexdump is used next, and this is shown
 Its a JFIF (JPG) file, but the header is not the usual signature...
 ![Screenshot 2024-04-28 210708](https://github.com/Cryogas/GDSC_CTF_APR_2024/assets/136941894/0cb8b4cb-3610-4c0f-9820-cab0b2faed5e)
 
-SO I CHANGED IT USING TEXT EDITOR, AND I SAVED IT.
+SO I CHANGED IT MANUALLY USING HEX EDITOR, AND I SAVED IT LOCALLY.
 
 
 ![a](https://github.com/Cryogas/GDSC_CTF_APR_2024/assets/136941894/e2c2be6d-1f55-46d9-be47-7402e5751cd0)
